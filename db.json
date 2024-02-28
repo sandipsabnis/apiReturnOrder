@@ -1,7 +1,8 @@
 {
   "OrderReference": [
     {
-      "OrderNo": "Ord_10021"
+      "OrderNo": "Ord_10021",
+      "Ref": "Reference"
     }
   ],
   "OrderStatus": {
